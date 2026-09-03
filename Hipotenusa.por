@@ -12,6 +12,8 @@ programa
 			leia(catb)
      }
      
+	 // Inserindo novo comentário por Bruna Stefanni
+
 	funcao inicio()
 	{
     teste()
